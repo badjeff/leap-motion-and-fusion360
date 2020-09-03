@@ -1,18 +1,17 @@
-##What is it?
+## What is it?
 A demo to show how the Leap Motion gesture controller and Fusion360 are integrated via Leap Motion Desktop App service api.
 
-##How it works?
+## How it works?
 Execute the only nodejs program in terminal. Let it decodes JSON string from Leap Motion Desktop App via WebSocket streamline and raise predefined keypress/mouse events accordingly.
 
-##What can it do?
-[![Demo](https://img.youtube.com/vi/hijN3THxmrg/0.jpg)](https://www.youtube.com/watch?v=hijN3THxmrg)
-=====
+## What can it do?
+[![Demo In Action](https://img.youtube.com/vi/hijN3THxmrg/0.jpg)](https://www.youtube.com/watch?v=hijN3THxmrg)
 
-##Resources
+## Resources
 * [Leap Motion Legacy Desktop Apps v2](https://developer.leapmotion.com/setup/desktop)
 * [Leap Motion API Docs (Javascript)](https://developer-archive.leapmotion.com/documentation/javascript/index.html)
 
-##License Details
+## License Details
 The MIT License (MIT)
 
 Copyright (c) 2020 Jeff Leung
