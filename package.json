@@ -1,0 +1,15 @@
+{
+  "name": "leap-motion-and-fusion360",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Leung <badjeff@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "ws": "^7.3.1"
+  }
+}
